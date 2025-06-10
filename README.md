@@ -10,7 +10,6 @@ Welcome to the 12-week beginner-friendly course designed to teach kids aged 10�
 📚 No external libraries  
 ✅ Focused on safe, standard coding practices
 
----
 
 ## 📆 Weekly Breakdown
 
@@ -35,7 +34,6 @@ Each week includes:
 | 11   | Password Masker              | Loops, string masking           |
 | 12   | Habit Tracker                | Arrays, counters                |
 
----
 
 ## 💻 Requirements
 
@@ -43,7 +41,6 @@ Each week includes:
 - A text editor like Notepad++ or VSCode
 - Basic typing skills and curiosity!
 
----
 
 ## 📂 How to Use
 
@@ -54,7 +51,6 @@ fpc hello_world.pas
 ./hello_world   # or hello_world.exe on Windows
 ```
 
----
 
 ## 🛠️ Compiler Directives
 
@@ -72,13 +68,10 @@ This line enables specific compiler modes and settings:
 
 These directives ensure compatibility and better functionality for the programs in this course.
 
----
 
 ## 📚 Additional Resources
 
 - [View Full Curriculum](CURRICULUM.md) - Detailed weekly lessons and code examples
 - [License](LICENSE) - MIT License for this project
 
----
 
-Happy coding! 🚀
