@@ -11,6 +11,25 @@ Welcome to the 12-week beginner-friendly course designed to teach kids aged 10�
 ✅ Focused on safe, standard coding practices
 
 
+## 🚀 Quick Start Options
+
+### Option 1: Try Online (No Installation)
+For immediate coding experience, use [JDoodle Pascal Online Compiler](https://www.jdoodle.com/execute-pascal-online):
+
+- Free and reliable
+- Clean Pascal-focused interface
+- Uses Free Pascal Compiler
+- Perfect for testing examples from this course
+
+### Option 2: Local Installation (Recommended)
+For the full experience and offline coding:
+
+- [Lazarus IDE](https://www.lazarus-ide.org/) (includes Free Pascal compiler)
+- Complete development environment with visual debugging
+- Project management and syntax highlighting built-in
+- Perfect for learning and building larger projects
+
+
 ## 📆 Weekly Breakdown
 
 Each week includes:
@@ -33,23 +52,6 @@ Each week includes:
 | 10   | Word Length Checker          | String functions                |
 | 11   | Password Masker              | Loops, string masking           |
 | 12   | Habit Tracker                | Arrays, counters                |
-
-
-## 💻 Requirements
-
-- [Free Pascal](https://www.freepascal.org/) (fpc) installed on your machine
-- A text editor like Notepad++ or VSCode
-- Basic typing skills and curiosity!
-
-
-## 📂 How to Use
-
-```bash
-git clone https://github.com/ikelaiah/free-pascal-for-kids-basics.git
-cd freepascal-for-kids/week01_hello_world
-fpc hello_world.pas
-./hello_world   # or hello_world.exe on Windows
-```
 
 
 ## 🛠️ Compiler Directives
