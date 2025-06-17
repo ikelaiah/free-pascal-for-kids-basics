@@ -4,6 +4,23 @@
 
 ---
 
+| Week | Project Title                | Topic                                   |
+|------|------------------------------|-----------------------------------------|
+| 1    | Say Hello                    | Writeln, structure, comments            |
+| 2    | Even or Odd Checker          | Readln, mod operator, conditions        |
+| 3    | Personal Notebook            | Multiple variables, user input/output   |
+| 4    | My Custom Checklist          | Arrays, for loops, user input           |
+| 5    | Multiplication Table         | Loops, multiplication                   |
+| 6    | Simple Calculator            | Arithmetic, if statements, menu input   |
+| 7    | My Birthday Countdown        | Integer math, logic comparisons         |
+| 8    | Temperature Logger           | Real numbers, average calculation       |
+| 9    | Pattern Generator            | Nested loops, output formatting         |
+| 10   | Word Length Checker          | String functions, length                |
+| 11   | Password Masker              | Loops, string masking                   |
+| 12   | Advanced Habit Tracker       | Multi-dimensional arrays, percentages   |
+
+---
+
 ## ✅ Week 1: Say Hello to the Computer
 
 **Project:** Print a welcome message with the student's name.
@@ -72,12 +89,13 @@ end.
 
 ## ✅ Week 3: Your First Personal Notebook
 
-**Project:** Ask the user to enter their name and favorite subject, then display it.
+**Project:** Ask the user to enter their name, age, favorite subject, school name, and school location, then display all the information.
 
 **What they’ll learn:**
 
-* `readln` for user input
-* Storing data in variables
+* Using multiple string and integer variables
+* Reading user input with `readln`
+* Displaying multiple pieces of information with `writeln`
 
 **Functions Used:**
 
@@ -92,14 +110,23 @@ program personal_notebook;
 {$mode objfpc}{$H+}{$J-}
 
 var
-  name, subject: string;
+  name, subject, schoolName, studyLocation: string;
+  age: integer;
 
 begin
   writeln('What is your name?');
   readln(name);
+  writeln('What is your age?');
+  readln(age);
   writeln('What is your favorite subject?');
   readln(subject);
-  writeln('Nice to meet you, ', name, '! ', subject, ' sounds fun!');
+  writeln('Which school do you attend?');
+  readln(schoolName);
+  writeln('Where is your school located?');
+  readln(studyLocation);
+  writeln('My name is ', name, ' and I am ', age, ' years old. ');
+  writeln('My favourite subject is ', subject, '!');
+  writeln('I enjoy studying at ', schoolName, ' located in ', studyLocation, '!');
 end.
 ```
 

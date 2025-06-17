@@ -38,21 +38,20 @@ Each week includes:
 - Safe and simple Pascal code
 - Explanations and learning goals
 
-| Week | Project Title                | Topic                          |
-|------|------------------------------|---------------------------------|
-| 1    | Say Hello                    | Writeln, structure, comments    |
-| 2    | Even or Odd Checker          | Mod operator, conditions        |
-| 3    | Personal Notebook            | Readln, variables               |
-| 4    | Daily Checklist              | Arrays, loops                   |
-| 5    | Multiplication Table         | Loops, multiplication           |
-| 6    | Simple Calculator            | Arithmetic, if statements       |
-| 7    | Birthday Countdown           | Age logic, subtraction          |
-| 8    | Temperature Logger           | Input validation, averages      |
-| 9    | Pattern Generator            | Nested loops                    |
-| 10   | Word Length Checker          | String functions                |
-| 11   | Password Masker              | Loops, string masking           |
-| 12   | Habit Tracker                | Arrays, counters                |
-
+| Week | Project Title                | Topic                                   |
+|------|------------------------------|-----------------------------------------|
+| 1    | Say Hello                    | Writeln, structure, comments            |
+| 2    | Even or Odd Checker          | Readln, mod operator, conditions        |
+| 3    | Personal Notebook            | Multiple variables, user input/output   |
+| 4    | My Custom Checklist          | Arrays, for loops, user input           |
+| 5    | Multiplication Table         | Loops, multiplication                   |
+| 6    | Simple Calculator            | Arithmetic, if statements, menu input   |
+| 7    | My Birthday Countdown        | Integer math, logic comparisons         |
+| 8    | Temperature Logger           | Real numbers, average calculation       |
+| 9    | Pattern Generator            | Nested loops, output formatting         |
+| 10   | Word Length Checker          | String functions, length                |
+| 11   | Password Masker              | Loops, string masking                   |
+| 12   | Advanced Habit Tracker       | Multi-dimensional arrays, percentages   |
 
 ## 🛠️ Compiler Directives
 
